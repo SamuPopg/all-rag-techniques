@@ -25,3 +25,6 @@ build/
 .idea/
 *.sublime-workspace
 .ipynb_checkpoints/
+
+# ignore env
+allragtechniquesenv39/
